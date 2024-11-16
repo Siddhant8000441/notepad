@@ -16,9 +16,4 @@ Welcome to the **React Notepad App**! This is a simple, lightweight note-taking 
   
 ## Getting Started
 
-To get started with the React Notepad App, follow these simple steps:
-
-### 1. Clone the Repository
-
-Clone the repository to your local machine using Git:
-
+To get started with the React Notepad App
